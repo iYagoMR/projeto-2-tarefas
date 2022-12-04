@@ -96,6 +96,9 @@ button {
 
   cursor: pointer;
 }
+button:hover {
+  background-color: #419e7e;
+}
 
 footer {
   font-size: 14px;
